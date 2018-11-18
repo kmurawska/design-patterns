@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 import static java.util.stream.Collectors.toSet;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class BuilderWithOrderAndMandatoryFieldsTest {
+class BuilderWithOrderAndMandatoryFieldsShowcase {
     private static final String FROM = "someone1@somewhere.com";
     private static final String TO = "someone2@somewhere.com";
     private static final String SUBJECT = "subject";
@@ -17,7 +17,7 @@ class BuilderWithOrderAndMandatoryFieldsTest {
     private static final String ATTACHMENT_2 = "attachment2";
 
     @Test
-    void build() {
+    void run() {
         EmailMessage emailMessage = EmailMessage.email()
                 .from(FROM)
                 .to(TO)
