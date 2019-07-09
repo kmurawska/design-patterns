@@ -6,7 +6,7 @@
 
 - [Strategy](#strategy)
 
-- [Temporal Patterns](#temporalpatterns)
+- [Temporal Patterns](#temporal-patterns)
 
 ## Builder
   - with order and mandatory fields
