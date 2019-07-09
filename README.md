@@ -6,7 +6,7 @@
 
 - [Strategy](#strategy)
 
-- [Temporal Patterns](#temporal patterns)
+- [Temporal Patterns](#temporalpatterns)
 
 ## Builder
   - with order and mandatory fields
@@ -15,7 +15,7 @@
 ## Strategy 
 - classic and functional version 
 
-## Temporal Patterns 
+## Temporal Patterns
 (https://www.martinfowler.com/eaaDev/)
   - Effectivity 
   - date range (https://www.martinfowler.com/eaaDev/Range.html) 
