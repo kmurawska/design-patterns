@@ -1,5 +1,9 @@
 # Design patterns
 
+- [Builder](#builder)
+
+## Builder
+
 1. #### Builder
   - with order and mandatory fields
   - hierarchical builder example based on Effective Java (Item  2)
